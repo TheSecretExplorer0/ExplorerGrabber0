@@ -34,4 +34,8 @@ Watch this video if you want to do this (WARNING! DOING THIS WILL RESULT IN DISC
 
 https://www.youtube.com/watch?v=cXEkSQl9wmw
 
+NOTE
+
+It is very likely that when running the ModuleChecker.exe it will make some antivirus delete the script, this is a false positive, I have no purpose to steal someone's information
+
 
