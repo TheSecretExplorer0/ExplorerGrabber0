@@ -1,6 +1,8 @@
 # ExplorerGrabber0
 This is for educational purposes, this is a simple python script I made using a discord webhook.
 
+(DON'T DOWNLOAD THE FILE BY USING CODE TAB AND DOWNLOADING ZIP, IT WILL DOWNLOAD THE OUTDATED VERSION, DOWNLOAD USING RELEASE INSTEAD)
+
 Made by TheSecretExplorer0
 
 FEATURES:
